@@ -1,3 +1,3 @@
 # sachin-demo
-java first project for git 
-basic mini
+java first project for git.<br>
+author-sachin
